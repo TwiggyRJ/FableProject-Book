@@ -11,7 +11,7 @@ Below is the **Mobile App:**
 For the first time you will not be signed in so you will need to log in or register to the App.
 
 
-## Authentication
+## Navigating to the Settings Page
 
 
 Like to gain access to all the features? Then you will need to log in or register. To get an account or to log in then head to the **Settings Page**.
@@ -26,3 +26,5 @@ Below is the **Desktop App:**
 Below is the **Mobile App:**
 
 ![Hamburger Menu with the Settings Choice selected on mobile](wp_ss_20160216_0004.png)
+
+## Authenticate
