@@ -8,13 +8,13 @@ Below is the **Mobile App:**
 
 ![Welcome Page Displaying the current version at the time of writing v0.3](wp_ss_20160216_0003.png)
 
-For the first time you will not be signed in.
+For the first time you will not be signed in so you will need to log in or register to the App.
 
 
 ## Authentication
 
 
-Like to gain access to all the features? Then you will need to login or register. To get an account or to login then head to the **Settings Page**.
+Like to gain access to all the features? Then you will need to log in or register. To get an account or to login then head to the **Settings Page**.
 
 On *Mobile* you can swipe right from the left hand side or on both systems you can click on the **Hamburger Menu Icon**. 
 
