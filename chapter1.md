@@ -14,9 +14,9 @@ For the first time you will not be signed in so you will need to log in or regis
 ## Authentication
 
 
-Like to gain access to all the features? Then you will need to log in or register. To get an account or to login then head to the **Settings Page**.
+Like to gain access to all the features? Then you will need to log in or register. To get an account or to log in then head to the **Settings Page**.
 
-On *Mobile* you can swipe right from the left hand side or on both systems you can click on the **Hamburger Menu Icon**. 
+On *Mobile* you can swipe right from the left hand side or on both systems you can click on the **Hamburger Menu Icon**. As well on *Mobile Devices* you can use the side menu as a *Trackpad* and drag down or up to select the menu item you want to open. 
 
 
 Below is the **Desktop App:**
