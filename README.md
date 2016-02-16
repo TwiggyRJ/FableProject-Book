@@ -1,3 +1,3 @@
-# My Awesome Book
+# Fable Time
 
-This file serves as your book's preface, a great place to describe your book's content and ideas.
+This book is a manual for the Fable Time App and using the Service.
