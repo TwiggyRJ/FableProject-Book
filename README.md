@@ -9,3 +9,5 @@ This book is a manual for the Fable Time App and using the Service. The requirem
 | Operating System | Windows 10 - Build 10240 | Windows 10 Mobile - Build 10586 |
 | Permissions | Internet Connection, Storage | Internet Connection, Storage |
 | Where Can I Get it? | Windows Store | Windows Store |
+
+*Please Note: To use all the features of the Service and App you will need to have an Account*
