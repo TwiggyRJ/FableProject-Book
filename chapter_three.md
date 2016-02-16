@@ -1,2 +1,2 @@
-# Chapter Three
+# How To Play
 
