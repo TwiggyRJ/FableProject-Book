@@ -11,6 +11,7 @@ Like to gain access to all the features? Then you will need to login or register
 On *Mobile* you can swipe right from the left hand side or on both systems you can click on the **Hamburger Menu Icon**. 
 
 
+Below is the **Desktop App:**
 
 
 
