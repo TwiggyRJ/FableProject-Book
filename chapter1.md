@@ -28,3 +28,15 @@ Below is the **Mobile App:**
 ![Hamburger Menu with the Settings Choice selected on mobile](wp_ss_20160216_0004.png)
 
 ## Authenticate
+
+Once you have navigated to the Settings Page you will be greeted by the following screen.
+
+Below is the **Desktop App:**
+
+![Settings Page landing](Settings_init.png)
+
+Below is the **Mobile App:**
+
+![Settings Page landing](wp_ss_20160216_0006.png)
+
+Once you have arrived at the Settings Page you will need to swipe from right to left to progress through the different sub-pages on **Mobile** or clicking on the sub-page headers on **Desktop**.
