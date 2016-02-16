@@ -1,6 +1,14 @@
 # Starting Out
 
-When you start the App for the first time you will not be signed in.
+When you start the App you will be greeted with the Welcome Page. This page will show information based on Updates to the App and the Web Service. Below is the **Desktop App:**
+
+![Welcome Page Displaying the current version at the time of writing v0.3](Welcome.png)
+
+Below is the **Mobile App:**
+
+![Welcome Page Displaying the current version at the time of writing v0.3](wp_ss_20160216_0003.png)
+
+For the first time you will not be signed in.
 
 
 ## Authentication
@@ -17,4 +25,4 @@ Below is the **Desktop App:**
 
 Below is the **Mobile App:**
 
-![Hamburger Menu with the Settings Choice selected on mobile](wp_ss_20160114_0005.png)
+![Hamburger Menu with the Settings Choice selected on mobile](wp_ss_20160216_0004.png)
