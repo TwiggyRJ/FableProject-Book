@@ -13,7 +13,7 @@ On *Mobile* you can swipe right from the left hand side or on both systems you c
 
 Below is the **Desktop App:**
 
-
+![Hamburger Menu with the Settings Choice selected on Desktop](Welcome_ham.png)
 
 Below is the **Mobile App:**
 
