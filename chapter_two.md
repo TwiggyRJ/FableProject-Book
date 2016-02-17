@@ -7,3 +7,9 @@ Below is the **Desktop App:**
 
 Below is the **Mobile App:**
 ![Going from Settings to Profile Page](wp_ss_20160217_0002.png)
+
+Once you have navigated to the profile page you will be greeted 
+
+![](profile_new.png)
+
+![](wp_ss_20160217_0004.png)
