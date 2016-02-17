@@ -48,3 +48,5 @@ Below is the **Desktop App:**
 ![Test Logging into Fable Time](Settings.png)
 
 Below is the **Mobile App:**
+
+![Test Logging into Fable Time](wp_ss_20160216_0005.png)
