@@ -54,4 +54,4 @@ Below is the **Mobile App:**
 
 Once you have **logged in** or you have **registered** then you can then fully use the App **Yay!!!!**
 
-![Yay](Yay.jpg)
+![Yay](yay.gif)
