@@ -1,3 +1,4 @@
 # About Your Profile
 
 Once you have logged in you will want to checkout your profile page. To do this you should open the **Hamburger Menu** and select **Profile Page** or the entry with your **Username** on.
+
