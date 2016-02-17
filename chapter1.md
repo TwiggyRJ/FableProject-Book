@@ -40,3 +40,11 @@ Below is the **Mobile App:**
 ![Settings Page landing](wp_ss_20160216_0006.png)
 
 Once you have arrived at the Settings Page you will need to swipe from right to left to progress through the different sub-pages on **Mobile** or clicking on the sub-page headers on **Desktop**.
+
+You can **log in** on the *Authenticate* sub-page or **register** on the *Authenticate Continued* sub-page, below is the user **Test** logging into the App on **Desktop** and **Mobile**.
+
+Below is the **Desktop App:**
+
+![Test Logging into Fable Time](Settings.png)
+
+Below is the **Mobile App:**
