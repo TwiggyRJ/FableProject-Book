@@ -2,11 +2,11 @@
 
 When you start the App you will be greeted with the Welcome Page. This page will show information based on Updates to the App and the Web Service. Below is the **Desktop App:**
 
-![Welcome Page Displaying the current version at the time of writing v0.3](images/Welcome.png)
+![Welcome Page Displaying the current version at the time of writing v0.3](images/desktop/Welcome.png)
 
 Below is the **Mobile App:**
 
-![Welcome Page Displaying the current version at the time of writing v0.3](images/wp_ss_20160216_0003.png)
+![Welcome Page Displaying the current version at the time of writing v0.3](images/mobile/wp_ss_20160216_0003.png)
 
 For the first time you will not be signed in so you will need to log in or register to the App.
 
