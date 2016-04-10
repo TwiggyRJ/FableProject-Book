@@ -31,8 +31,14 @@ Below is the **Mobile App:**
 
 ## Start Playing
 
-Once you have chosen your difficulty you are ready to play, to play go to the **Stories Page**
+Once you have chosen your difficulty you are ready to play, to play go to the **Stories Page.**
+
+
+Below is the **Desktop App:**
 
 
 
+
+
+Below is the **Mobile App:**
 
