@@ -29,3 +29,10 @@ Below is the **Mobile App:**
 | Guffaws | Questions are comical and can be rude and feature foul language and you have 30 seconds to answer |
 
 
+## Start Playing
+
+Once you have chosen your difficulty you are ready to play, to play go to the **Stories Page**
+
+
+
+
