@@ -13,10 +13,10 @@ Below is the **Mobile App:**
  
  Below is the **Desktop App:**
  
- ![](images/Settings_Game_Play.png)
+ ![](images/desktop/Settings_Game_Play.png)
  
 Below is the **Mobile App:**
- ![](images/wp_ss_20160410_0002.png)
+ ![](images/mobile/wp_ss_20160410_0002.png)
  
  From here you can choose your difficulty, the available options are:
  
