@@ -1,6 +1,6 @@
 # Fable Time
 
-This book is a user manual for the **Fable Time App** and using its associated Service. The requirements for using the service and first party apps are:
+This book is a user and developer manual for the **Fable Time App** and using its associated Service. The requirements for using the service and first party apps are:
 
 | **Requirements** | **Desktops** | **Phones** |
 | -- | -- | -- |
