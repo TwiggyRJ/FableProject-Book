@@ -4,9 +4,9 @@ Once you have Logged in/Registered to the Fable Service, there will be game rela
 ## Game Settings
 
 Below is the **Desktop App:**
-![Desktop: General Settings Area](images/Settings_General.png)
+![Desktop: General Settings Area](images/desktop/Settings_General.png)
 Below is the **Mobile App:**
-![](images/wp_ss_20160410_0001.png)
+![](images/mobile/wp_ss_20160410_0001.png)
  The *Date Format Settings* is an App wide setting, this means that it not just affects game play but also how dates are shown on every page of the App.
  
  The Game Play specific settings are in the **Game Play** section of the Settings Page.
