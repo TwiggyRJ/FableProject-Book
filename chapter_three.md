@@ -20,10 +20,12 @@ Below is the **Mobile App:**
  
  From here you can choose your difficulty, the available options are:
  
- | Difficulty | Affects on Game Play |
+| Difficulty | Affects on Game Play |
 | -- | -- |
 | Easy | Questions are easy and you have 90 seconds to answer  |
 | Normal | Questions are of an average difficulty and you have 60 seconds to answer |
 | Hard | Questions are difficult and you have 45 seconds to answer |
 | Very Hard | Questions are the same as on Hard but you will have only 30 seconds to answer |
 | Guffaws | Questions are comical and can be rude and feature foul language and you have 30 seconds to answer |
+
+
