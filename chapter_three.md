@@ -37,8 +37,11 @@ Once you have chosen your difficulty you are ready to play, to play go to the **
 Below is the **Desktop App:**
 
 
-
+![](images/Stories_Page.png)
 
 
 Below is the **Mobile App:**
+
+
+![](images/wp_ss_20160410_0004.png)
 
