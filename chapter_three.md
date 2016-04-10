@@ -7,4 +7,4 @@ Once you have Logged in/Registered there are game related settings that you can 
 Below is the **Desktop App:**
 ![Desktop: General Settings Area](images/Settings_General.png)
 Below is the **Mobile App:**
-
+![](images/wp_ss_20160216_0005.png)
