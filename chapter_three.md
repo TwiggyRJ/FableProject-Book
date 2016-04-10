@@ -45,3 +45,11 @@ Below is the **Mobile App:**
 
 ![](images/mobile/wp_ss_20160410_0005.png)
 
+Click on the large story tile and it will bring you to the **Story Page.**
+
+Below is the **Desktop App:**
+
+![](images/desktop/Story_Page.png)
+
+Below is the **Mobile App:**
+
