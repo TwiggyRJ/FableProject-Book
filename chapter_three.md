@@ -54,3 +54,5 @@ Below is the **Desktop App:**
 Below is the **Mobile App:**
 
 ![](images/mobile/wp_ss_20160308_0001.png)
+
+Click **Play** and it will bring you to the first page of the story and in this case it will bring us to the first page of *The Tale of Bright Peak Barrow.*
