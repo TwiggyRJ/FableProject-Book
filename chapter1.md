@@ -21,11 +21,11 @@ On *Mobile* you can swipe right from the left hand side or on both systems you c
 
 Below is the **Desktop App:**
 
-![Hamburger Menu with the Settings Choice selected on Desktop](Welcome_ham.png)
+![Hamburger Menu with the Settings Choice selected on Desktop](images/desktop/Welcome_ham.png)
 
 Below is the **Mobile App:**
 
-![Hamburger Menu with the Settings Choice selected on mobile](wp_ss_20160216_0004.png)
+![Hamburger Menu with the Settings Choice selected on mobile](images/mobile/wp_ss_20160216_0004.png)
 
 ## Authenticate
 
@@ -33,7 +33,7 @@ Once you have navigated to the Settings Page you will be greeted by the followin
 
 Below is the **Desktop App:**
 
-![Settings Page landing](Settings_init.png)
+![Settings Page landing](images/desktop/Settings_init.png)
 
 Below is the **Mobile App:**
 
