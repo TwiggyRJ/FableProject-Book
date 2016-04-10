@@ -45,13 +45,13 @@ You can **log in** on the *Authenticate* sub-page or **register** on the *Authen
 
 Below is the **Desktop App:**
 
-![Test Logging into Fable Time](Settings.png)
+![Test Logging into Fable Time](images/desktop/Settings.png)
 
 Below is the **Mobile App:**
 
-![Test Logging into Fable Time](wp_ss_20160216_0005.png)
+![Test Logging into Fable Time](images/mobile/wp_ss_20160216_0005.png)
 
 
 Once you have **logged in** or you have **registered** then you can then fully use the App **Yay!!!!**
 
-![Yay](yay.gif)
+![Yay](images/yay.gif)
