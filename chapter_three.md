@@ -43,5 +43,5 @@ Below is the **Desktop App:**
 Below is the **Mobile App:**
 
 
-![](images/wp_ss_20160108_0001.png)
+![](images/Mobile_Stories.png)
 
