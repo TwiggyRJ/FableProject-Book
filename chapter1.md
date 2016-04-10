@@ -33,11 +33,11 @@ Once you have navigated to the Settings Page you will be greeted by the followin
 
 Below is the **Desktop App:**
 
-![Settings Page landing](images/desktop/Settings_init.png)
+![Settings Page landing](images/desktop/Settings_General.png)
 
 Below is the **Mobile App:**
 
-![Settings Page landing](wp_ss_20160216_0006.png)
+![Settings Page landing](images/mobile/wp_ss_20160216_0006.png)
 
 Once you have arrived at the Settings Page you will need to swipe from right to left to progress through the different sub-pages on **Mobile** or clicking on the sub-page headers on **Desktop**.
 
